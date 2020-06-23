@@ -1,6 +1,6 @@
 {
   "name": "com.unity.example",
-  "version": "1",
+  "version": "1.0.0",
   "displayName": "vis2k/Mirror",
   "description": "Replacement for UNet",
   "unity": "2019.3.15",
